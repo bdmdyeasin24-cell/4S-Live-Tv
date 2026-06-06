@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://images.seeklogo.com/logo-png/53/1/btv-hd-logo-png_seeklogo-532022.png", BTV.HD
 http://103.13.193.13:8082/BTV.HD/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://images.seeklogo.com/logo-png/36/1/news24-channel-logo-png_seeklogo-362149.png", NEWS.24.HD
+#EXTINF:-2 group-title="BANGLA" tvg-logo="https://images.seeklogo.com/logo-png/36/1/news24-channel-logo-png_seeklogo-362149.png", NEWS.24.HD
 http://103.13.193.13:8082/NEWS.24.HD/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://cdn.ekattorbd.com/contents/themes/public/style/images/logo.png", EKATTOR.TV.HD
+#EXTINF:-3 group-title="BANGLA" tvg-logo="https://cdn.ekattorbd.com/contents/themes/public/style/images/logo.png", EKATTOR.TV.HD
 http://103.13.193.13:8082/EKATTOR.TV.HD/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png", DBC.NEWS.HD
+#EXTINF:-4 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png", DBC.NEWS.HD
 http://103.13.193.13:8082/DBC.NEWS.HD/video.m3u8?token=o_tOMJkN-G6XL3
