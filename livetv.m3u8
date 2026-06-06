@@ -13,19 +13,19 @@ http://103.13.193.13:8082/ATN.NEWS.HD/video.m3u8?token=o_tOMJkN-G6XL3
 http://103.13.193.13:8082/SOMOY.TV.HD/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://en.wikipedia.org/wiki/Channel_24_%28Bangladeshi_TV_channel%29#/media/File:Logo_of_Channel_24_(Bangladesh).png", CHANNEL.24.HD
 http://103.13.193.13:8082/CHANNEL.24.HD/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", CHANNEL.I.HD
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://images.seeklogo.com/logo-png/42/1/channel-i-logo-png_seeklogo-427745.png", CHANNEL.I.HD
 http://103.13.193.13:8082/CHANNEL.I.HD/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", ATN.BANGLA.HD
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://images.seeklogo.com/logo-png/31/1/atn-bangla-logo-png_seeklogo-314509.png", ATN.BANGLA.HD
 http://103.13.193.13:8082/ATN.BANGLA.HD/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", MASRANGA.TV.HD
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://en.wikipedia.org/wiki/Maasranga_Television#/media/File:Maasranga_Television_Logo.jpg", MASRANGA.TV.HD
 http://103.13.193.13:8082/MASRANGA.TV.HD/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", INDEPENDENT.TV
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://en.wikipedia.org/wiki/Independent_Television_%28Bangladesh%29#/media/File:Independent_Television_Logo.svg", INDEPENDENT.TV
 http://103.13.193.13:8082/INDEPENDENT.TV/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", JAMUNA.TV
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://www.freekaj.com/assets/images/stock/image/2024/01/14/65a43ac0d1ffc1705261760.jpg", JAMUNA.TV
 http://103.13.193.13:8082/JAMUNA.TV/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", GAZI.TV.HD
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://freekaj.com/assets/images/stock/image/2024/01/14/65a43964409ff1705261412.jpg", GAZI.TV.HD
 http://103.13.193.13:8082/GAZI.TV.HD/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", SATV.HD
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://freekaj.com/assets/images/stock/image/2024/01/14/65a43ce6787531705262310.jpg", SATV.HD
 http://103.13.193.13:8082/SATV.HD/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", DESH.TV
 http://103.13.193.13:8082/DESH.TV/video.m3u8?token=o_tOMJkN-G6XL3
