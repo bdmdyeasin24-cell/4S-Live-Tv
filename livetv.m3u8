@@ -13,41 +13,41 @@ http://103.13.193.13:8082/ATN.NEWS.HD/video.m3u8?token=o_tOMJkN-G6XL3
 http://103.13.193.13:8082/SOMOY.TV.HD/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://en.wikipedia.org/wiki/Channel_24_%28Bangladeshi_TV_channel%29#/media/File:Logo_of_Channel_24_(Bangladesh).png", CHANNEL.24.HD
 http://103.13.193.13:8082/CHANNEL.24.HD/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", EKATTOR.TV.HD
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", CHANNEL.I.HD
 http://103.13.193.13:8082/CHANNEL.I.HD/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", EKATTOR.TV.HD
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", ATN.BANGLA.HD
 http://103.13.193.13:8082/ATN.BANGLA.HD/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", EKATTOR.TV.HD
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", MASRANGA.TV.HD
 http://103.13.193.13:8082/MASRANGA.TV.HD/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", EKATTOR.TV.HD
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", INDEPENDENT.TV
 http://103.13.193.13:8082/INDEPENDENT.TV/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", EKATTOR.TV.HD
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", JAMUNA.TV
 http://103.13.193.13:8082/JAMUNA.TV/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", EKATTOR.TV.HD
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", GAZI.TV.HD
 http://103.13.193.13:8082/GAZI.TV.HD/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", EKATTOR.TV.HD
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", SATV.HD
 http://103.13.193.13:8082/SATV.HD/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", EKATTOR.TV.HD
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", DESH.TV
 http://103.13.193.13:8082/DESH.TV/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", EKATTOR.TV.HD
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", MOHONA.TV.HD
 http://103.13.193.13:8082/MOHONA.TV.HD/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", EKATTOR.TV.HD
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", BANGLA.VISION.HD
 http://103.13.193.13:8082/BANGLA.VISION.HD/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", EKATTOR.TV.HD
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", STAR.NEWS.HD
 http://103.13.193.13:8082/STAR.NEWS.HD/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", EKATTOR.TV.HD
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", BIJOY.TV.HD
 http://103.13.193.13:8082/BIJOY.TV.HD/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", EKATTOR.TV.HD
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", RTV.HD
 http://103.13.193.13:8082/RTV.HD/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", EKATTOR.TV.HD
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", NEXUS.TV.HD
 http://103.13.193.13:8082/NEXUS.TV.HD/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", EKATTOR.TV.HD
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", MYTV.HD
 http://103.13.193.13:8082/MYTV.HD/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", EKATTOR.TV.HD
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", NTV.HD
 http://103.13.193.13:8082/NTV.HD/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", EKATTOR.TV.HD
+#EXTINF:-1 group-title="INTERNATIONAL NEWS" tvg-logo="https://emergencyuk.org/wp-content/uploads/2017/03/Aljazeera-logo-English-1024x768.png", ALJAZEERA.HD
 http://103.13.193.13:8082/ALJAZEERA.HD/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", EKATTOR.TV.HD
+#EXTINF:-1 group-title="INTERNATIONAL NEWS" tvg-logo="https://download.logo.wine/logo/BBC_News/BBC_News-Logo.wine.png", BBC.NEWS
 http://103.13.193.13:8082/BBC.NEWS/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", EKATTOR.TV.HD
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://example.com/logo/btv.png", PEACE.TV.BANGLA.HD
 http://103.13.193.13:8082/PEACE.TV.BANGLA.HD/video.m3u8?token=o_tOMJkN-G6XL3
