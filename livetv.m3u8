@@ -73,4 +73,39 @@ http://103.13.193.13:8082/ALJAZEERA.HD/video.m3u8?token=o_tOMJkN-G6XL3
 http://103.13.193.13:8082/BBC.NEWS/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://example.com/logo/btv.png", PEACE.TV.BANGLA.HD
 http://103.13.193.13:8082/PEACE.TV.BANGLA.HD/video.m3u8?token=o_tOMJkN-G6XL3
-
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://example.com/logo/btv.png", T SPORTS
+http://103.13.193.13:8082/T.SPORTS.HD/video.m3u8?token=o_tOMJkN-G6XL3
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://example.com/logo/btv.png", A SPORTS
+http://103.13.193.13:8082/A.SPORTS.HD/video.m3u8?token=o_tOMJkN-G6XL3
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://example.com/logo/btv.png", PTV SPORTS
+http://103.13.193.13:8082/PTV-SPORTS-HD/video.m3u8?token=o_tOMJkN-G6XL3
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://example.com/logo/btv.png", ZEE CAFE
+http://103.13.193.13:8082/ZEE.CAFE.HD/video.m3u8?token=o_tOMJkN-G6XL3
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://example.com/logo/btv.png", SONY SPORTS 1
+http://103.13.193.13:8082/SONY.SPORTS.1HD/video.m3u8?token=o_tOMJkN-G6XL3
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://example.com/logo/btv.png", SONY SPORTS 2
+http://103.13.193.13:8082/SONY.SPORTS2.HD/video.m3u8?token=o_tOMJkN-G6XL3
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://example.com/logo/btv.png", SONY SPORTS 3
+http://103.13.193.13:8082/SONY.SPORTS.3/video.m3u8?token=o_tOMJkN-G6XL3
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://example.com/logo/btv.png", SONY SPORTS 4
+http://103.13.193.13:8082/SONY.SPORTS.4/video.m3u8?token=o_tOMJkN-G6XL3
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://example.com/logo/btv.png", SONY SPORTS 5
+http://103.13.193.13:8082/SONY-SPORTS.5HD/video.m3u8?token=o_tOMJkN-G6XL3
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://example.com/logo/btv.png", STAR SPORTS SEL 1
+http://103.13.193.13:8082/STAR.SPORTS-SEL1.HD/video.m3u8?token=o_tOMJkN-G6XL3
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://example.com/logo/btv.png", STAR SPORTS SEL 2
+http://103.13.193.13:8082/STAR.SPORTS.SEL.2.HD/video.m3u8?token=o_tOMJkN-G6XL3
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://example.com/logo/btv.png", STAR SPORTS 1
+http://103.13.193.13:8082/STAR.SPORTS1.HD/video.m3u8?token=o_tOMJkN-G6XL3
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://example.com/logo/btv.png", STAR SPORTS 2
+http://103.13.193.13:8082/STAR.SPORTS2.HD/video.m3u8?token=o_tOMJkN-G6XL3
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://example.com/logo/btv.png", STAR SPORTS 3
+http://103.13.193.13:8082/STAR-SPORTS.3/video.m3u8?token=o_tOMJkN-G6XL3
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://example.com/logo/btv.png", AND FLIX HD
+http://103.13.193.13:8082/AND.FLIX.HD/video.m3u8?token=o_tOMJkN-G6XL3
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://example.com/logo/btv.png", GOLF SPORTS
+http://103.13.193.13:8082/GOLF.SPORTS/video.m3u8?token=o_tOMJkN-G6XL3
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://example.com/logo/btv.png", FAST SPORTS
+http://103.13.193.13:8082/FAST.SPORTS.HD/video.m3u8?token=o_tOMJkN-G6XL3
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://example.com/logo/btv.png", EURO SPORTS
+http://103.13.193.13:8082/EUROSPORTS.HD/video.m3u8?token=o_tOMJkN-G6XL3
