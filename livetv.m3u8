@@ -45,9 +45,32 @@ http://103.13.193.13:8082/NEXUS.TV.HD/video.m3u8?token=o_tOMJkN-G6XL3
 http://103.13.193.13:8082/MYTV.HD/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", NTV.HD
 http://103.13.193.13:8082/NTV.HD/video.m3u8?token=o_tOMJkN-G6XL3
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://example.com/logo/btv.png", ZEE BANGLA HD
+http://103.13.193.13:8082/ZEE.BANGLA.HD/video.m3u8?token=o_tOMJkN-G6XL3
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://example.com/logo/btv.png", STAR JALSHA HD
+http://103.13.193.13:8082/STAR.JALSHA.HD/video.m3u8?token=o_tOMJkN-G6XL3
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://example.com/logo/btv.png", COLORS BANGLA HD
+http://103.13.193.13:8082/COLORS.BANGLA.HD/video.m3u8?token=o_tOMJkN-G6XL3
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://example.com/logo/btv.png", STAR PLUS HD
+http://103.13.193.13:8082/STAR.PLUS.HD/video.m3u8?token=o_tOMJkN-G6XL3
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://example.com/logo/btv.png", STAR BHARAT
+http://103.13.193.13:8082/STAR.BHARAT.HD/video.m3u8?token=o_tOMJkN-G6XL3
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://example.com/logo/btv.png", ZEE TV
+http://103.13.193.13:8082/ZEE.TV.HD/video.m3u8?token=o_tOMJkN-G6XL3
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://example.com/logo/btv.png", SUN BANGLA
+http://103.13.193.13:8082/SUN.BANGLA.HD/video.m3u8?token=o_tOMJkN-G6XL3
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://example.com/logo/btv.png", ENTER10 BANGLA
+http://103.13.193.13:8082/ENTER10.BANGLA/video.m3u8?token=o_tOMJkN-G6XL3
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://example.com/logo/btv.png", COLORS BANGLA CINEMA
+http://103.13.193.13:8082/COLORS.BANGLA.CINEMA/video.m3u8?token=o_tOMJkN-G6XL3
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://example.com/logo/btv.png", SONY AATH
+http://103.13.193.13:8082/SONY.AAT/video.m3u8?token=o_tOMJkN-G6XL3
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://example.com/logo/btv.png", JALSHA MOVIES
+http://103.13.193.13:8082/JALSHA.MOVIES.HD/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="INTERNATIONAL NEWS" tvg-logo="https://emergencyuk.org/wp-content/uploads/2017/03/Aljazeera-logo-English-1024x768.png", ALJAZEERA.HD
 http://103.13.193.13:8082/ALJAZEERA.HD/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="INTERNATIONAL NEWS" tvg-logo="https://download.logo.wine/logo/BBC_News/BBC_News-Logo.wine.png", BBC.NEWS
 http://103.13.193.13:8082/BBC.NEWS/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://example.com/logo/btv.png", PEACE.TV.BANGLA.HD
 http://103.13.193.13:8082/PEACE.TV.BANGLA.HD/video.m3u8?token=o_tOMJkN-G6XL3
+
