@@ -67,6 +67,8 @@ http://103.13.193.13:8082/COLORS.BANGLA.CINEMA/video.m3u8?token=o_tOMJkN-G6XL3
 http://103.13.193.13:8082/SONY.AAT/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://example.com/logo/btv.png", JALSHA MOVIES
 http://103.13.193.13:8082/JALSHA.MOVIES.HD/video.m3u8?token=o_tOMJkN-G6XL3
+EXTINF:-1 group-title="INDIA" tvg-logo="https://example.com/logo/btv.png", SONY ENT HD
+http://103.13.193.13:8082/SONY.ENT.HD/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="INTERNATIONAL NEWS" tvg-logo="https://emergencyuk.org/wp-content/uploads/2017/03/Aljazeera-logo-English-1024x768.png", ALJAZEERA.HD
 http://103.13.193.13:8082/ALJAZEERA.HD/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="INTERNATIONAL NEWS" tvg-logo="https://download.logo.wine/logo/BBC_News/BBC_News-Logo.wine.png", BBC.NEWS
