@@ -111,5 +111,5 @@ http://103.13.193.13:8082/GOLF.SPORTS/video.m3u8?token=o_tOMJkN-G6XL3
 http://103.13.193.13:8082/FAST.SPORTS.HD/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://example.com/logo/btv.png", EURO SPORTS
 http://103.13.193.13:8082/EUROSPORTS.HD/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://example.com/logo/btv.png", TT
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://example.com/logo/btv.png", TT
 https://nomawnoijl.gpcdn.net/akash/originals/playlist.m3u8
