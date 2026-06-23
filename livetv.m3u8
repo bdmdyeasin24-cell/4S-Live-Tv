@@ -75,6 +75,8 @@ http://103.13.193.13:8082/ALJAZEERA.HD/video.m3u8?token=o_tOMJkN-G6XL3
 http://103.13.193.13:8082/BBC.NEWS/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://example.com/logo/btv.png", PEACE.TV.BANGLA.HD
 http://103.13.193.13:8082/PEACE.TV.BANGLA.HD/video.m3u8?token=o_tOMJkN-G6XL3
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/43/Toffee_logo.png/revision/latest?cb=20231207072745", TOFFEE
+http://172.19.0.3/proxy.php?url=http%3A%2F%2F172.19.1.2%2Fdigitv1%2Ftracks-v1a1%2Fmono.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://example.com/logo/btv.png", T SPORTS
 http://103.13.193.13:8082/T.SPORTS.HD/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://10.168.240.250/img/channels/T%20SPORTS.png", T SPORTS
