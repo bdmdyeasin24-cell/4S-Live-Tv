@@ -79,8 +79,8 @@ http://103.13.193.13:8082/PEACE.TV.BANGLA.HD/video.m3u8?token=o_tOMJkN-G6XL3
 http://172.19.0.3/proxy.php?url=http%3A%2F%2F172.19.1.2%2Fdigitv1%2Ftracks-v1a1%2Fmono.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://10.168.240.250/img/channels/T%20SPORTS.png", T SPORTS 1
 http://103.13.193.13:8082/T.SPORTS.HD/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://10.168.240.250/img/channels/T%20SPORTS.png", T SPORTS 2
-http://10.168.240.250:8095/tsports/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/ZEE5_2025.svg/330px-ZEE5_2025.svg.png", Bangla/Hindi FIFA 2026
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/08/btvctg.png?x71442", FIFA WORLD CUP
 http://10.10.10.2/live/fnf006/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://example.com/logo/btv.png", A SPORTS
