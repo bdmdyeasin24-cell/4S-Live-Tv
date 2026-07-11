@@ -75,8 +75,8 @@ http://103.13.193.13:8082/ALJAZEERA.HD/video.m3u8?token=o_tOMJkN-G6XL3
 http://103.13.193.13:8082/BBC.NEWS/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://example.com/logo/btv.png", PEACE.TV.BANGLA.HD
 http://103.13.193.13:8082/PEACE.TV.BANGLA.HD/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.apkmirror.com/wp-content/themes/APKMirror/ap_resize/ap_resize.php?src=https%3A%2F%2Fdownloadr2.apkmirror.com%2Fwp-content%2Fuploads%2F2023%2F06%2F24%2F6490a7ce043bb_com.banglalink.toffeetv.png&w=96&h=96&q=100", TOFFEE
-http://172.19.0.3/proxy.php?url=http%3A%2F%2F172.19.1.2%2Fdigitv1%2Ftracks-v1a1%2Fmono.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png", TOFFEE
+https://cp11.adabmedia.com/hls2/sport.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://10.168.240.250/img/channels/T%20SPORTS.png", T SPORTS 1
 http://103.13.193.13:8082/T.SPORTS.HD/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/ZEE5_2025.svg/330px-ZEE5_2025.svg.png", Bangla/Hindi FIFA 2026
