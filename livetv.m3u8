@@ -49,7 +49,7 @@ http://103.13.193.13:8082/NTV.HD/video.m3u8?token=o_tOMJkN-G6XL3
 http://103.13.193.13:8082/ZEE.BANGLA.HD/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://example.com/logo/btv.png", STAR JALSHA HD
 http://103.13.193.13:8082/STAR.JALSHA.HD/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="INDIA" tvg-logo="https://example.com/logo/btv.png", COLORS BANGLA HD
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://172.20.5.50/assets/images/COLORS%20BANGLA%20HD1745033576.png", COLORS BANGLA HD
 http://103.13.193.13:8082/COLORS.BANGLA.HD/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://example.com/logo/btv.png", STAR PLUS HD
 http://103.13.193.13:8082/STAR.PLUS.HD/video.m3u8?token=o_tOMJkN-G6XL3
@@ -107,13 +107,11 @@ http://103.13.193.13:8082/STAR.SPORTS1.HD/video.m3u8?token=o_tOMJkN-G6XL3
 http://103.13.193.13:8082/STAR.SPORTS2.HD/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://172.20.5.50/assets/images/STAR%20SPORTS%2031745039893.png", STAR SPORTS 3
 http://103.13.193.13:8082/STAR-SPORTS.3/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://example.com/logo/btv.png", AND FLIX HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.indigital.co.in/images/logo/UNITE8-SPORTS-2.png", UNITE8 SPORTS 2HD
 http://103.13.193.13:8082/AND.FLIX.HD/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://example.com/logo/btv.png", GOLF SPORTS
-http://103.13.193.13:8082/GOLF.SPORTS/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://example.com/logo/btv.png", FAST SPORTS
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://172.20.5.50/assets/images/FAST%20SPORTS%20HD1745044750.png", FAST SPORTS
 http://103.13.193.13:8082/FAST.SPORTS.HD/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://example.com/logo/btv.png", EURO SPORTS
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://172.20.5.50/assets/images/EUROSPORTS%20HD1745040406.png", EURO SPORTS
 http://103.13.193.13:8082/EUROSPORTS.HD/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://example.com/logo/btv.png", SANGEET BANGLA
 http://103.13.193.13:8082/Sangeet.Bangla/video.m3u8?token=o_tOMJkN-G6XL3
