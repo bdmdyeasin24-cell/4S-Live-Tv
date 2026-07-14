@@ -77,35 +77,35 @@ http://103.13.193.13:8082/BBC.NEWS/video.m3u8?token=o_tOMJkN-G6XL3
 http://103.13.193.13:8082/PEACE.TV.BANGLA.HD/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png", TOFFEE
 https://cp11.adabmedia.com/hls2/sport.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://10.168.240.250/img/channels/T%20SPORTS.png", T SPORTS 1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://172.20.5.50/assets/images/T%20SPORTS1744972630.png", T SPORTS 1
 http://103.13.193.13:8082/T.SPORTS.HD/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/ZEE5_2025.svg/330px-ZEE5_2025.svg.png", Bangla/Hindi FIFA 2026
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/08/btvctg.png?x71442", FIFA WORLD CUP
 https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://example.com/logo/btv.png", A SPORTS
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://172.20.5.50/assets/images/A%20SPORTS%20HD1745044782.png", A SPORTS
 http://103.13.193.13:8082/A.SPORTS.HD/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://example.com/logo/btv.png", ZEE CAFE
 http://103.13.193.13:8082/ZEE.CAFE.HD/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://example.com/logo/btv.png", SONY SPORTS 1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://172.20.5.50/assets/images/sony%20sports%201%20hd.png", SONY SPORTS 1
 http://103.13.193.13:8082/SONY.SPORTS.1HD/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://example.com/logo/btv.png", SONY SPORTS 2
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://172.20.5.50/assets/images/sony%20sports%202%20hd.png", SONY SPORTS 2
 http://103.13.193.13:8082/SONY.SPORTS2.HD/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://example.com/logo/btv.png", SONY SPORTS 3
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://172.20.5.50/assets/images/Sony%20sports%203.png", SONY SPORTS 3
 http://103.13.193.13:8082/SONY.SPORTS.3/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://example.com/logo/btv.png", SONY SPORTS 4
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://172.20.5.50/assets/images/sony%20sports%204.png", SONY SPORTS 4
 http://103.13.193.13:8082/SONY.SPORTS.4/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://example.com/logo/btv.png", SONY SPORTS 5
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://172.20.5.50/assets/images/sony%20sports%205%20hd.png", SONY SPORTS 5
 http://103.13.193.13:8082/SONY-SPORTS.5HD/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://example.com/logo/btv.png", STAR SPORTS SEL 1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://172.20.5.50/assets/images/STAR%20SELECT%201%20HD1745038777.png", STAR SPORTS SEL 1
 http://103.13.193.13:8082/STAR.SPORTS-SEL1.HD/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://example.com/logo/btv.png", STAR SPORTS SEL 2
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://172.20.5.50/assets/images/STAR%20SPORTS%20SELECT%202%20HD1745033722.png", STAR SPORTS SEL 2
 http://103.13.193.13:8082/STAR.SPORTS.SEL.2.HD/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://example.com/logo/btv.png", STAR SPORTS 1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://172.20.5.50/assets/images/STAR%20SPORTS%201%20HD1744991778.png", STAR SPORTS 1
 http://103.13.193.13:8082/STAR.SPORTS1.HD/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://example.com/logo/btv.png", STAR SPORTS 2
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://172.20.5.50/assets/images/STAR%20SPORTS%202%20HD1744991842.png", STAR SPORTS 2
 http://103.13.193.13:8082/STAR.SPORTS2.HD/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://example.com/logo/btv.png", STAR SPORTS 3
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://172.20.5.50/assets/images/STAR%20SPORTS%2031745039893.png", STAR SPORTS 3
 http://103.13.193.13:8082/STAR-SPORTS.3/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://example.com/logo/btv.png", AND FLIX HD
 http://103.13.193.13:8082/AND.FLIX.HD/video.m3u8?token=o_tOMJkN-G6XL3
