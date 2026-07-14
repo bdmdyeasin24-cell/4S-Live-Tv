@@ -61,11 +61,11 @@ http://103.13.193.13:8082/ZEE.TV.HD/video.m3u8?token=o_tOMJkN-G6XL3
 http://103.13.193.13:8082/SUN.BANGLA.HD/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://example.com/logo/btv.png", ENTER10 BANGLA
 http://103.13.193.13:8082/ENTER10.BANGLA/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="INDIA" tvg-logo="https://example.com/logo/btv.png", COLORS BANGLA CINEMA
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://172.20.5.50/assets/images/COLORS%20BANGLA%20CINEMA1745041486.png", COLORS BANGLA CINEMA
 http://103.13.193.13:8082/COLORS.BANGLA.CINEMA/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://example.com/logo/btv.png", SONY AATH
 http://103.13.193.13:8082/SONY.AAT/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="INDIA" tvg-logo="https://example.com/logo/btv.png", JALSHA MOVIES
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://172.20.5.50/assets/images/JALSHA%20MOVIES%20HD1745034005.png", JALSHA MOVIES
 http://103.13.193.13:8082/JALSHA.MOVIES.HD/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://example.com/logo/btv.png", SONY ENT HD
 http://103.13.193.13:8082/SONY.ENT.HD/video.m3u8?token=o_tOMJkN-G6XL3
