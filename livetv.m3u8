@@ -69,6 +69,22 @@ http://103.13.193.13:8082/SONY.AAT/video.m3u8?token=o_tOMJkN-G6XL3
 http://103.13.193.13:8082/JALSHA.MOVIES.HD/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://example.com/logo/btv.png", SONY ENT HD
 http://103.13.193.13:8082/SONY.ENT.HD/video.m3u8?token=o_tOMJkN-G6XL3
+#EXTINF:-1 group-title="CARTOON CHANNEL" tvg-logo="http://172.20.5.50/assets/images/DURANTA%20TV1745043400.png", DURANTA.TV.HD
+http://103.13.193.13:8082/DURANTA.TV.HD/video.m3u8?token=o_tOMJkN-G6XL3
+#EXTINF:-1 group-title="CARTOON CHANNEL" tvg-logo="http://172.20.5.50/assets/images/HUNGAMA1745041551.png", HUNGAMA HD
+http://103.13.193.13:8082/HUNGAMA/video.m3u8?token=o_tOMJkN-G6XL3
+#EXTINF:-1 group-title="CARTOON CHANNEL" tvg-logo="http://172.20.5.50/assets/images/SUPER%20HUNGAMA1745044022.png", HUNGAMA
+http://103.13.193.13:8082/SUPER.HUNGAMA/video.m3u8?token=o_tOMJkN-G6XL3
+#EXTINF:-1 group-title="CARTOON CHANNEL" tvg-logo="http://172.20.5.50/assets/images/SONY%20YAY1745045046.png", SONY.YAY
+http://103.13.193.13:8082/SONY.YAY/video.m3u8?token=o_tOMJkN-G6XL3
+#EXTINF:-1 group-title="CARTOON CHANNEL" tvg-logo="http://172.20.5.50/assets/images/SONIC1745041154.png", SONIC
+http://103.13.193.13:8082/SONIC/video.m3u8?token=o_tOMJkN-G6XL3
+#EXTINF:-1 group-title="CARTOON CHANNEL" tvg-logo="http://172.20.5.50/assets/images/POGO1745041515.png", POGO
+http://103.13.193.13:8082/POGO/video.m3u8?token=o_tOMJkN-G6XL3
+#EXTINF:-1 group-title="CARTOON CHANNEL" tvg-logo="http://172.20.5.50/assets/images/NICK%20JR1745042397.png", NICK.JR
+http://103.13.193.13:8082/NICK.JR/video.m3u8?token=o_tOMJkN-G6XL3
+#EXTINF:-1 group-title="CARTOON CHANNEL" tvg-logo="http://172.20.5.50/assets/images/NICK1745041451.png", NICK
+http://103.13.193.13:8082/NICK/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="INTERNATIONAL NEWS" tvg-logo="https://emergencyuk.org/wp-content/uploads/2017/03/Aljazeera-logo-English-1024x768.png", ALJAZEERA.HD
 http://103.13.193.13:8082/ALJAZEERA.HD/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="INTERNATIONAL NEWS" tvg-logo="https://download.logo.wine/logo/BBC_News/BBC_News-Logo.wine.png", BBC.NEWS
