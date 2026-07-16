@@ -121,6 +121,11 @@ http://103.13.193.13:8082/ZOOM.MUSIC/video.m3u8?token=o_tOMJkN-G6XL3
 http://103.13.193.13:8082/Music.India/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://example.com/logo/btv.png", 9XM MUSIC
 http://103.13.193.13:8082/9XM.MUSIC/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="Hindi Movie" tvg-logo="https://example.com/logo/btv.png", Royal 2025
-http://10.16.100.202/ftps10/iccftps10sasd8/Movies/South%20Indian%20(Hindi%20Dubbed)/Royal%20(2025)%201080p%20WEBDL.mp4
+#EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://example.com/logo/btv.png", Bachelor Point S05E101-104 BongoBD
+https://dryyhm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Bachelor.Point.S05E101-104.1080p.mkv
+#EXTINF:-1 group-title="Hindi Movie" tvg-logo="https://example.com/logo/btv.png", Ikka
+http://10.16.100.213/iccftps13/iccftps13sasd9/Movies/Hindi/Ikka%20(2026)%20720p%20WEBRip.mp4
+#EXTINF:-1 group-title="Hindi Movie" tvg-logo="https://example.com/logo/btv.png", Dhamaal 4
+http://10.16.100.202/ftps10/iccftps10sasd10/Movies/Hindi/Dhamaal%204%20(2026)%201080p%20CAMRip.mp4
+
 
