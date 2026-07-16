@@ -71,6 +71,10 @@ http://103.13.193.13:8082/JALSHA.MOVIES.HD/video.m3u8?token=o_tOMJkN-G6XL3
 http://103.13.193.13:8082/SONY.ENT.HD/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="CARTOON CHANNEL" tvg-logo="http://172.20.5.50/assets/images/DURANTA%20TV1745043400.png", DURANTA.TV.HD
 http://103.13.193.13:8082/DURANTA.TV.HD/video.m3u8?token=o_tOMJkN-G6XL3
+#EXTINF:-1 group-title="CARTOON CHANNEL" tvg-logo="http://172.20.5.50/assets/images/BAL%20BHARAT1745041576.png", ETV.BAL.BHARAT
+http://103.13.193.13:8082/ETV.BAL.BHARAT/video.m3u8?token=o_tOMJkN-G6XL3
+#EXTINF:-1 group-title="CARTOON CHANNEL" tvg-logo="http://172.20.5.50/assets/images/CARTOON%20NETWORK1745033414.png", CARTON.NETWORK.HD
+http://103.13.193.13:8082/CARTON.NETWORK.HD/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="CARTOON CHANNEL" tvg-logo="http://172.20.5.50/assets/images/HUNGAMA1745041551.png", HUNGAMA HD
 http://103.13.193.13:8082/HUNGAMA/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="CARTOON CHANNEL" tvg-logo="http://172.20.5.50/assets/images/SUPER%20HUNGAMA1745044022.png", HUNGAMA
