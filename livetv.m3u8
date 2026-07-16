@@ -121,4 +121,6 @@ http://103.13.193.13:8082/ZOOM.MUSIC/video.m3u8?token=o_tOMJkN-G6XL3
 http://103.13.193.13:8082/Music.India/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://example.com/logo/btv.png", 9XM MUSIC
 http://103.13.193.13:8082/9XM.MUSIC/video.m3u8?token=o_tOMJkN-G6XL3
+#EXTINF:-1 group-title="Hindi Movie" tvg-logo="https://example.com/logo/btv.png", Royal 2025
+http://10.16.100.202/ftps10/iccftps10sasd8/Movies/South%20Indian%20(Hindi%20Dubbed)/Royal%20(2025)%201080p%20WEBDL.mp4
 
