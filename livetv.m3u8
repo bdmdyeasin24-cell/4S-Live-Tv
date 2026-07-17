@@ -95,8 +95,8 @@ http://103.13.193.13:8082/ALJAZEERA.HD/video.m3u8?token=o_tOMJkN-G6XL3
 http://103.13.193.13:8082/BBC.NEWS/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://example.com/logo/btv.png", PEACE.TV.BANGLA.HD
 http://103.13.193.13:8082/PEACE.TV.BANGLA.HD/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png", TOFFEE
-https://cp11.adabmedia.com/hls2/sport.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://imgur.com/79g2kMA.png",Bein Sports 1 Max Arabic
+http://starhub.pro/live/farhat-3379/67897-913379/744517.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://172.20.5.50/assets/images/T%20SPORTS1744972630.png", T SPORTS 1
 http://103.13.193.13:8082/T.SPORTS.HD/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/ZEE5_2025.svg/330px-ZEE5_2025.svg.png", Bangla/Hindi FIFA 2026
