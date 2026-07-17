@@ -139,37 +139,3 @@ http://103.13.193.13:8082/ZOOM.MUSIC/video.m3u8?token=o_tOMJkN-G6XL3
 http://103.13.193.13:8082/Music.India/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://example.com/logo/btv.png", 9XM MUSIC
 http://103.13.193.13:8082/9XM.MUSIC/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="Hindi Movie" tvg-logo="https://example.com/logo/btv.png", Brij Mohan Amar Rahe (Long Live Brij Mohan)
-http://10.16.100.212/iccftps12/iccftps12sasd7/Movies/Hindi/Brij%20Mohan%20Amar%20Rahe%20(Long%20Live%20Brij%20Mohan)%20(2017)%20720p%20WEBRip.mp4
-#EXTINF:-1 group-title="Hindi Movie" tvg-logo="https://example.com/logo/btv.png", Ikka
-http://10.16.100.213/iccftps13/iccftps13sasd9/Movies/Hindi/Ikka%20(2026)%20720p%20WEBRip.mp4
-#EXTINF:-1 group-title="Hindi Movie" tvg-logo="https://example.com/logo/btv.png", Dhamaal 4
-http://10.16.100.202/ftps10/iccftps10sasd10/Movies/Hindi/Dhamaal%204%20(2026)%201080p%20CAMRip.mp4
-#EXTINF:-1 group-title="Hindi Movie" tvg-logo="https://example.com/logo/btv.png", Mukhbir The Story of a Spy The Movie
-http://10.16.100.213/iccftps13/iccftps13sasd2/Movies/Hindi/Mukhbir%20The%20Story%20of%20a%20Spy%20The%20Movie%20(2026)%201080p%20WEBDL.mp4
-#EXTINF:-1 group-title="Hindi Movie" tvg-logo="https://example.com/logo/btv.png", Dug Dug
-http://10.16.100.212/iccftps12/iccftps12sasd3/Movies/Hindi/Dug%20Dug%20(2021)%20720p%20WEBRip.mp4
-#EXTINF:-1 group-title="Hindi Movie" tvg-logo="https://example.com/logo/btv.png", Baby Do Die Do
-http://10.16.100.213/iccftps13/iccftps13sasd2/Movies/Hindi/Baby%20Do%20Die%20Do%20(2026)%201080p%20CAMRip.mp4
-#EXTINF:-1 group-title="Hindi Movie" tvg-logo="https://example.com/logo/btv.png", Alpha (2026)
-http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Hindi/Alpha%20(2026)%201080p%20CAMRip.mp4
-#EXTINF:-1 group-title="Hindi Movie" tvg-logo="https://example.com/logo/btv.png", Satluj (Punjab 95)
-http://10.16.100.214/iccftps14/iccftps14sasd2/Movies/Hindi/Satluj%20(Punjab%2095)%20(2026)%201080p%20WEBDL.mp4
-#EXTINF:-1 group-title="Hindi Movie" tvg-logo="https://example.com/logo/btv.png", Tavvai
-http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Tavvai%20(2026)%201080p%20WEBDL.mp4
-#EXTINF:-1 group-title="Hindi Movie" tvg-logo="https://example.com/logo/btv.png", Prince (1969)
-http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Prince%20(1969)%20720p%20WEBDL.mp4
-#EXTINF:-1 group-title="Hindi Movie" tvg-logo="https://example.com/logo/btv.png", Insaaf The Final Justice
-http://10.16.100.202/ftps10/iccftps10sasd7/Movies/Hindi/Insaaf%20The%20Final%20Justice%20(1997)%20720p%20WEBDL.mp4
-#EXTINF:-1 group-title="Hindi Movie" tvg-logo="https://example.com/logo/btv.png", Haseena Maan Jayegi
-http://10.16.100.213/iccftps13/iccftps13sasd7/Movies/Hindi/Haseena%20Maan%20Jayegi%20(1968)%20720p%20WEBDL.mp4
-#EXTINF:-1 group-title="TV-WEB-Series" tvg-logo="https://image.tmdb.org/t/p/original/e7Gb1ZeLL4TNfTpzGrCEE29xSEx.jpg", Raktanchal Season 03 2026
-http://10.16.100.214/iccftps14/iccftps14sasd8/Tv%20Show/Serials%20(Hindi)/Raktanchal%20Season%2003%20(2026)%20Completed/Raktanchal%20S03E01.mp4
-#EXTINF:-1 group-title="TV-WEB-Series" tvg-logo="https://image.tmdb.org/t/p/original/9vJJHhW6pvBN5sV7pdmE8JWhAIZ.jpg", Super Subbu Season 01 2026
-http://10.16.100.213/iccftps13/iccftps13sasd2/TV%20Show/Serials%20(Hindi)/Super%20Subbu%20Season%2001%20(2026)%20Completed/Super%20Subbu%20S01E01.mp4
-#EXTINF:-1 group-title="TV-WEB-Series" tvg-logo="https://image.tmdb.org/t/p/original/bj1GXhmgRKLl6c6uGKZ5jFXaBtf.jpg", Isakapatnam Season 01
-http://10.16.100.213/iccftps13/iccftps13sasd1/TV%20Show/Serials%20(Hindi)/Isakapatnam%20Season%2001%20(2026)%20Completed/Isakapatnam%20S01E01.mp4
-#EXTINF:-1 group-title="TV-WEB-Series" tvg-logo="https://image.tmdb.org/t/p/original/pgClP9xgJujlJDvxf8reGJYoilW.jpg", Ab Hoga Hisaab Season 02
-http://10.16.100.213/iccftps13/iccftps13sasd9/TV%20Show/Hindi/Ab%20Hoga%20Hisaab%20Season%2002%20(2026)%20Completed/Ab%20Hoga%20Hisaab%20S02E01.mp4
-#EXTINF:-1 group-title="TV-WEB-Series" tvg-logo="https://image.tmdb.org/t/p/original/eAXSlqAJwpdsZ59G10lao9OJ4SG.jpg", Pritam and Pedro Season 01
-http://10.16.100.202/ftps10/iccftps10sasd7/Tv%20Show/Hindi/Pritam%20and%20Pedro%20Season%2001%20(2026)%20Completed/Pritam%20and%20Pedro%20S01E01.mp4
