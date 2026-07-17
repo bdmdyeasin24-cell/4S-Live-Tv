@@ -1,11 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="BANGLA" tvg-logo="", BTV.HD
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://imgur.com/a/X51ICcX", Sonsod TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://imgur.com/a/X51ICcX", BTV.HD
 http://103.13.193.13:8082/BTV.HD/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="BANGLA" tvg-logo="", Channel 1
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://imgur.com/a/X51ICcX", Channel 1
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="", Star News
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://imgur.com/a/X51ICcX", Star News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://images.seeklogo.com/logo-png/36/1/news24-channel-logo-png_seeklogo-362149.png", NEWS.24.HD
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://imgur.com/a/X51ICcX", NEWS.24.HD
 http://103.13.193.13:8082/NEWS.24.HD/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://cdn.ekattorbd.com/contents/themes/public/style/images/logo.png", EKATTOR.TV.HD
 http://103.13.193.13:8082/EKATTOR.TV.HD/video.m3u8?token=o_tOMJkN-G6XL3
