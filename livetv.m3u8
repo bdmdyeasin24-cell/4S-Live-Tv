@@ -7,8 +7,6 @@ http://103.13.193.13:8082/BTV.HD/video.m3u8?token=o_tOMJkN-G6XL3
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://imgur.com/a/X51ICcX", Star News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://imgur.com/a/X51ICcX", NEWS.24.HD
-http://103.13.193.13:8082/NEWS.24.HD/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://cdn.ekattorbd.com/contents/themes/public/style/images/logo.png", EKATTOR.TV.HD
 http://103.13.193.13:8082/EKATTOR.TV.HD/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png", DBC.NEWS.HD
@@ -31,12 +29,6 @@ http://103.13.193.13:8082/INDEPENDENT.TV/video.m3u8?token=o_tOMJkN-G6XL3
 http://103.13.193.13:8082/JAMUNA.TV/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://freekaj.com/assets/images/stock/image/2024/01/14/65a43964409ff1705261412.jpg", GAZI.TV.HD
 http://103.13.193.13:8082/GAZI.TV.HD/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://freekaj.com/assets/images/stock/image/2024/01/14/65a43ce6787531705262310.jpg", SATV.HD
-http://103.13.193.13:8082/SATV.HD/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", DESH.TV
-http://103.13.193.13:8082/DESH.TV/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", MOHONA.TV.HD
-http://103.13.193.13:8082/MOHONA.TV.HD/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", BANGLA.VISION.HD
 http://103.13.193.13:8082/BANGLA.VISION.HD/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", STAR.NEWS.HD
