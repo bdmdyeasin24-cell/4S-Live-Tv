@@ -93,15 +93,15 @@ http://103.13.193.13:8082/ALJAZEERA.HD/video.m3u8?token=o_tOMJkN-G6XL3
 http://103.13.193.13:8082/BBC.NEWS/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://example.com/logo/btv.png", PEACE.TV.BANGLA.HD
 http://103.13.193.13:8082/PEACE.TV.BANGLA.HD/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="BANGLA" tvg-logo="http://10.168.240.250/img/channels/T%20SPORTS.png", T SPORTS
+#EXTINF:-1 group-title="BANGLA" tvg-logo="", T SPORTS
 http://103.13.193.13:8082/SOMOY.TV.HD/video.m3u8?token=o_tOMJkN-G6XL3
+#EXTINF:-1 group-title="BANGLA" tvg-logo="", Willow Extra
+http://27.124.71.27/Willow_Extra/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://10.168.240.250/img/channels/PTV%20SPORTS%20HD.png", PTV SPORTS
 http://103.13.193.13:8082/T.SPORTS.HD/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://10.168.240.250/img/channels/T%20SPORTS.png", T SPORTS
-http://10.168.240.250:8095/tsports/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://172.20.5.50/assets/images/T%20SPORTS1744972630.png", FIFA
-http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://example.com/logo/btv.png", ZEE CAFE
+#EXTINF:-1 group-title="SPORTS" tvg-logo="", Bein Sports 1
+http://host.phorious.art/validation/377?deviceMac=10:27:BE:25:67:80&split=33da9c80155413830543e27c8520ba99&smart=1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="", UNITE8 SPORTS 2HD
 http://103.13.193.13:8082/ZEE.CAFE.HD/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://172.20.5.50/assets/images/sony%20sports%201%20hd.png", SONY SPORTS 1
 http://103.13.193.13:8082/SONY.SPORTS.1HD/video.m3u8?token=o_tOMJkN-G6XL3
@@ -123,7 +123,7 @@ http://103.13.193.13:8082/STAR.SPORTS1.HD/video.m3u8?token=o_tOMJkN-G6XL3
 http://103.13.193.13:8082/STAR.SPORTS2.HD/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://172.20.5.50/assets/images/STAR%20SPORTS%2031745039893.png", STAR SPORTS 3
 http://103.13.193.13:8082/STAR-SPORTS.3/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.indigital.co.in/images/logo/UNITE8-SPORTS-2.png", UNITE8 SPORTS 2HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="", UNITE8 SPORTS 2HD
 http://103.13.193.13:8082/AND.FLIX.HD/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://172.20.5.50/assets/images/FAST%20SPORTS%20HD1745044750.png", FAST SPORTS
 http://103.13.193.13:8082/FAST.SPORTS.HD/video.m3u8?token=o_tOMJkN-G6XL3
