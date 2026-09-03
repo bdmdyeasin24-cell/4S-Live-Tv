@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://imgur.com/v5aCSbX.jpeg", BTV HD
 http://103.13.193.13:8082/BTV.HD/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://imgur.com/a/X51ICcX", Channel 1
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://imgur.com/a/X51ICcX", Boishakhi Tv
 https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://imgur.com/a/X51ICcX", Star News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/starnewsbd.stream/playlist.m3u8?wmsAuthSign=|Referer=https://www.jagobd.com/
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://cdn.ekattorbd.com/contents/themes/public/style/images/logo.png", EKATTOR.TV.HD
 http://103.13.193.13:8082/EKATTOR.TV.HD/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png", DBC.NEWS.HD
