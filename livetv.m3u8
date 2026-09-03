@@ -1,10 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://imgur.com/XDXlr5z.jpeg", Sonsod TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://imgur.com/v5aCSbX.jpeg", BTV HD
 http://103.13.193.13:8082/BTV.HD/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://imgur.com/a/X51ICcX", Channel 1
-https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
+https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://imgur.com/a/X51ICcX", Star News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://cdn.ekattorbd.com/contents/themes/public/style/images/logo.png", EKATTOR.TV.HD
