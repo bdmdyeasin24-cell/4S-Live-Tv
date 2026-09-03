@@ -91,14 +91,10 @@ http://103.13.193.13:8082/ALJAZEERA.HD/video.m3u8?token=o_tOMJkN-G6XL3
 http://103.13.193.13:8082/BBC.NEWS/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://example.com/logo/btv.png", PEACE.TV.BANGLA.HD
 http://103.13.193.13:8082/PEACE.TV.BANGLA.HD/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="SPORTS" tvg-logo="", T SPORTS
-http://103.13.193.13:8082/SOMOY.TV.HD/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="SPORTS" tvg-logo="", Willow Extra
 http://27.124.71.27/Willow_Extra/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://10.168.240.250/img/channels/PTV%20SPORTS%20HD.png", PTV SPORTS
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://10.168.240.250/img/channels/PTV%20SPORTS%20HD.png", T SPORTS
 http://103.13.193.13:8082/T.SPORTS.HD/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="SPORTS" tvg-logo="", Bein Sports 1
-http://host.phorious.art/validation/377?deviceMac=10:27:BE:25:67:80&split=33da9c80155413830543e27c8520ba99&smart=1
 #EXTINF:-1 group-title="SPORTS" tvg-logo="", UNITE8 SPORTS 2HD
 http://103.13.193.13:8082/ZEE.CAFE.HD/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://172.20.5.50/assets/images/sony%20sports%201%20hd.png", SONY SPORTS 1
