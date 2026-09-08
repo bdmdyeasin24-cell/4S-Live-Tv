@@ -113,8 +113,6 @@ http://103.13.193.13:8082/STAR.SPORTS2.HD/video.m3u8?token=o_tOMJkN-G6XL3
 http://103.13.193.13:8082/STAR-SPORTS.3/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="SPORTS" tvg-logo="", UNITE8 SPORTS 2HD
 http://103.13.193.13:8082/AND.FLIX.HD/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://172.20.5.50/assets/images/FAST%20SPORTS%20HD1745044750.png", FAST SPORTS
-http://103.13.193.13:8082/FAST.SPORTS.HD/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://172.20.5.50/assets/images/EUROSPORTS%20HD1745040406.png", EURO SPORTS
 http://103.13.193.13:8082/EUROSPORTS.HD/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://example.com/logo/btv.png", SANGEET BANGLA
