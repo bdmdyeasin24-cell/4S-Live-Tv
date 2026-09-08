@@ -29,16 +29,10 @@ http://103.13.193.13:8082/JAMUNA.TV/video.m3u8?token=o_tOMJkN-G6XL3
 http://103.13.193.13:8082/GAZI.TV.HD/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", BANGLA.VISION.HD
 http://103.13.193.13:8082/BANGLA.VISION.HD/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", STAR.NEWS.HD
-http://103.13.193.13:8082/STAR.NEWS.HD/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", BIJOY.TV.HD
 http://103.13.193.13:8082/BIJOY.TV.HD/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", RTV.HD
 http://103.13.193.13:8082/RTV.HD/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", NEXUS.TV.HD
-http://103.13.193.13:8082/NEXUS.TV.HD/video.m3u8?token=o_tOMJkN-G6XL3
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", MYTV.HD
-http://103.13.193.13:8082/MYTV.HD/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://example.com/logo/btv.png", NTV.HD
 http://103.13.193.13:8082/NTV.HD/video.m3u8?token=o_tOMJkN-G6XL3
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://example.com/logo/btv.png", ZEE BANGLA HD
